@@ -5,6 +5,7 @@ from .wayformer_dataset import WayformerDataset
 __all__ = {
     'autobot': AutoBotDataset,
     'wayformer': WayformerDataset,
+    'moe': WayformerDataset,
     'MTR': MTRDataset,
 }
 
